@@ -121,11 +121,3 @@
     left:900px;
     top: -250px;
   }
-
-  blockquote{
-    text-align: center;
-    width: 50px;
-    display: flex;
-    height: 50px;
-    position: relative;
-  }
